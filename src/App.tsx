@@ -9,6 +9,7 @@ function App() {
         <div className="App">
             {/*<input type="text"/>*/}
             {/*<input type={"password"} value={'Yo!'} checked={true}/>*/}
+            <div>Lorem  ipsum</div>
             <PageTitle title={'This is App component'}/>
             <PageTitle title={'Title 2'}/>
             <Rating value={3}/>
